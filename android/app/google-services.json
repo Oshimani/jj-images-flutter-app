@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325121238401",
+    "project_id": "jj-images",
+    "storage_bucket": "jj-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325121238401:android:da93b3873c0884bd953480",
+        "android_client_info": {
+          "package_name": "com.example.jj_images"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325121238401-pbvitc4h5a2qkgevk5h4p8l41aemc5rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jj_images",
+            "certificate_hash": "645c1750783085ff84d34358aaba50e9fced9f9e"
+          }
+        },
+        {
+          "client_id": "325121238401-4iq4o87ldqq9593h5t2ga0kef174skgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBgV4fJ4MxEEH-yuSHDd9f5KrKOJHHCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325121238401-4iq4o87ldqq9593h5t2ga0kef174skgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
